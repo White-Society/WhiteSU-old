@@ -313,4 +313,11 @@
   <string name="require_kernel_version_gki">Рекомендуется обновить ядро</string>
   <string name="select_language">Русский</string>
   <string name="export_log_unrooted">Экспорт логов (без рута)</string>
+  <string name="settings_app_lock">Защита Клиента</string>
+  <string name="settings_app_lock_summary">Требовать разблокировку паролем при открытии приложения.</string>
+  <string name="settings_app_lock_timeout">Блокировать</string>
+  <string name="settings_app_lock_timeout_immediate">Всегда</string>
+  <string name="settings_app_lock_timeout_1m">Через 1 минуту</string>
+  <string name="settings_app_lock_timeout_5m">Через 5 минут</string>
+  <string name="quick_shell">Терминал</string>
 </resources>

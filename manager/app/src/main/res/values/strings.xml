@@ -321,4 +321,5 @@
     <string name="settings_app_lock_timeout_5m">5 minutes</string>
     <string name="biometric_prompt_subtitle">Unlock Manager</string>
     <string name="biometric_prompt_subtitle_module">Unlock %1$s</string>
+    <string name="quick_shell">QuickShell</string>
 </resources>
